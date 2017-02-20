@@ -1,14 +1,8 @@
 [
   {
-    "remote": "omnirom",
-    "repository": "android_kernel_moto_shamu",
+    "remote": "flash-kernel",
+    "repository": "shamu",
     "target_path": "kernel/moto/shamu",
-    "revision": "android-6.0"
-  },
-  {
-    "remote": "omnirom",
-    "repository": "android_packages_apps_SnapdragonCamera",
-    "target_path": "packages/apps/SnapdragonCamera",
-    "revision": "android-6.0"
+    "revision": "twrp-7.1.1"
   }
 ]
