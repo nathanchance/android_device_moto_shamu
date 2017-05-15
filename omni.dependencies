@@ -1,8 +1,8 @@
 [
   {
-    "remote": "flash-kernel",
-    "repository": "shamu",
+    "remote": "nathanchance",
+    "repository": "android_kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
-    "revision": "twrp-7.1.1"
+    "revision": "android-7.1"
   }
 ]
